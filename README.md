@@ -1,2 +1,21 @@
-# celadon-city
-An R-Studio project that attempts to Investigate Personality Traits with respect to Academic Achievement
+# Investigating Personality Traits with respect to Academic Achievement
+### By Anosh.S, Stuart.T, Matteus.R and Kshitij.M
+
+## Executive Summary
+
+This study attempts to delineate a correlation between personality traits and academic achievement. Education as a significant contributor to sustainable economic development, academic achievement across the board a key indicator of educational quality. Therefore this represents a criteria worthy for consideration by policy managers and advisors to make informed decisions that secure economic prosperity. Personality, as a distinctive quality amongst students, has therefore compelled the undertaking for further research and thus the culmination of this report. Data related to our findings was acquired through a self-assessed survey, where participants answered questions pertaining to specific personal attributes. ATAR results were also recorded so to quantify the academic achievement of respective candidates. Questions were then categorised by their respective personality trait - creativity, perseverance, and social intelligence - each addressed as a research question for further analysis.
+
+<br>
+
+
+## Initial Data Analysis (IDA)
+
+In 2014, the Australian government spent $13.8 billion on schools (APH, 2017), and, as of 2016, 24.3% of the Australian population had completed a bachelor degree or higher (ABS, 2016). On an economic level, education is a key concern in fostering sustainable economic development. The improvement of academic achievement amongst students is a fundamental premise in educational policies and management and aids policy advisors in understanding educational quality. Although determining the contributing factors of high academic achievement would be incredibly valuable for educational planning, various factors obscure the relationship. With this in mind, we created a survey to measure three qualitative variables based on personality type: creativity, perseverance, and social intelligence, and two quantitative variables that requested for expected and actual ATAR (survey can be found here:
+<br>
+https://docs.google.com/forms/d/e/1FAIpQLSdxSCEJCBQ1hf6ORLbvaPb58XVc3LMpTqgXpW_xdFFDg3i8mQ/viewform).
+
+Measuring personalities with a self-assessed survey presents a number of challenges, as personality traits cannot be objectively justified. This is due to the subjective nature of the study where varying degrees of response bias can occur amongst candidates. Therefore, the results potentially could pose inaccurate and/or misleading insights. Given the scope of the assessment, it is difficult to address limitations effectively e.g. small question set, bias, small sample size. We attempted to compensate for observer bias using questions that did not directly inform the candidate of the personality being assessed to prevent subjects from being aware of the intentions of the study e.g. “I believe it is best to forgive and forget” assessing perseverance. However, this raises the question of the ethics of our survey, because subjects were unaware of how their response would be used. Additionally, selection bias was present in the survey due to the nature of how our survey was distributed on social media and the breath of educational status that was analysed. This only considered individuals who have completed their high school certificate and those being a majority from a sydney demographic. Moreover, ATAR being considered quantitative is worth being noted of as distinguishing the variable between being either quantitative or qualitative is a grey area. ATAR being a highly precise numerical rank ranging from 0-99.95, its relatively discrete measure of 0.05 increments validates its consideration as a quantitative variable.
+
+<br>Stakeholders with an interest in this report include:</br> 
+<br>The education sector - accounting for the differences that personality traits may cause, educators can take necessary measures to recognise their students’ abilities and address their individual needs to maximise student potential and academic achievement.</br>
+<br>Governments have an obligation to efficiently and effectively address the needs of their people. Analysing and understanding the personality traits of students, resources can be allocated most appropriately to address student needs on a nationwide scale.</br>
